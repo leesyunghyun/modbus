@@ -1,0 +1,11 @@
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Slave\bin\Debug\Modbus_Slave.exe.config
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Slave\bin\Debug\Modbus_Slave.exe
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Slave\bin\Debug\Modbus_Slave.pdb
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Slave\obj\Debug\Modbus_Slave.csprojResolveAssemblyReference.cache
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Slave\obj\Debug\Modbus_Slave.Form1.resources
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Slave\obj\Debug\Modbus_Slave.Properties.Resources.resources
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Slave\obj\Debug\Modbus_Slave.csproj.GenerateResource.Cache
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Slave\obj\Debug\Modbus_Slave.exe
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Slave\obj\Debug\Modbus_Slave.pdb
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Slave\obj\Debug\Modbus_Slave.Form2.resources
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Slave\obj\Debug\Modbus_Slave.Form3.resources

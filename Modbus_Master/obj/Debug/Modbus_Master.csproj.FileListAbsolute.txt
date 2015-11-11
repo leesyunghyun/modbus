@@ -1,0 +1,13 @@
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Master\bin\Debug\Modbus_Master.exe.config
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Master\bin\Debug\Modbus_Master.exe
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Master\bin\Debug\Modbus_Master.pdb
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Master\obj\Debug\Modbus_Master.csprojResolveAssemblyReference.cache
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Master\obj\Debug\Modbus_Master.Properties.Resources.resources
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Master\obj\Debug\Modbus_Master.csproj.GenerateResource.Cache
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Master\obj\Debug\Modbus_Master.exe
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Master\obj\Debug\Modbus_Master.pdb
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Master\obj\Debug\Modbus_Master.Main.resources
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Master\obj\Debug\Modbus_Master.Write_0x06.resources
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Master\obj\Debug\Modbus_Master.ChangeAddress.resources
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Master\obj\Debug\Modbus_Master.Write_0x10.resources
+G:\이승현\대전대학교\프로그래밍\C#\대전대학교\실습\Modbus_Master\obj\Debug\Modbus_Master.EditDialog.resources
